@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://xuyunfengsp@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/xuyunfengsp
+  icon: fab fa-github
+- title: LinkedIn
+  url: https://www.linkedin.com/in/xuyunfeng/
+  icon: fab fa-linkedin
